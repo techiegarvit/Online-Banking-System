@@ -12,7 +12,7 @@ public class Login extends JFrame implements ActionListener{
     JButton b1,b2,b3;
   
     Login(){
-        setTitle("AUTOMATED TELLER MACHINE");
+        setTitle("Online Banking System");
         
         ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("ASimulatorSystem/icons/logo.jpg"));
         Image i2 = i1.getImage().getScaledInstance(100, 100, Image.SCALE_DEFAULT);
@@ -21,7 +21,7 @@ public class Login extends JFrame implements ActionListener{
         l11.setBounds(70, 10, 100, 100);
         add(l11);
         
-        l1 = new JLabel("WELCOME TO ATM");
+        l1 = new JLabel("WELCOME TO Online Bank");
         l1.setFont(new Font("Osward", Font.BOLD, 38));
         l1.setBounds(200,40,450,40);
         add(l1);
