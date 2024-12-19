@@ -28,8 +28,10 @@ The **Online Banking System** is a GUI-based banking application developed using
 - **MySQL**: For database management and storing user data, transactions, and account details.
 - **JDBC**: For connecting Java application with the MySQL database.
 
-##Screenshots
+### Screenshots
 ![image](https://github.com/user-attachments/assets/0d671c8c-970a-4947-881c-c3d795701e7a)
+
+![image](https://github.com/user-attachments/assets/9f5fdb8a-cf36-48f0-956f-49c4ca60145a)
 
   
 ## Installation
